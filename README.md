@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, eu sou Tiago</h1>
+<hr><h1 align="center">Oi 👋, eu sou Tiago</h1>
 <h3 align="center">Analista e desenvolvedor de sistemas</h3>
 
 - 🌱 Estou estudando sobre **Python e React**
@@ -14,7 +14,7 @@
 <a href="https://discord.gg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="t" height="30" width="40" /></a>
 </p>-->
 
-<h3 align="left">LINGUAGENS E FERRAMENTAS</h3>
+<hr><h3 align="left">LINGUAGENS E FERRAMENTAS</h3>
 <p align="left"> 
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
@@ -33,6 +33,9 @@
     </a>
     <a href="https://jquery.com/" target="_blank" rel="noreferrer"> 
         <img src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-7.jpg" alt="JQuery" width="40" height="40"/>
+    </a>
+    <a href="https://pt.m.wikipedia.org/wiki/Ajax_(programa%C3%A7%C3%A3o)" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/AJAX_logo_by_gengns.svg" alt="Ajax" width="40" height="40"/>
     </a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
